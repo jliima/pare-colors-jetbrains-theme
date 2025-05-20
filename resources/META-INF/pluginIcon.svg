@@ -1,26 +1,13 @@
-<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <rect width="128" height="128" fill="#10171e" rx="15" ry="15"/>
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" fill="#10171e" rx="7.5" ry="7.5"/>
 
-  <!-- Text -->
-  <text x="50%" y="45%"
-    fill="#cfdceb"
-    font-family="Arial, sans-serif"
-    font-size="36"
-    font-weight="bold"
-    text-anchor="middle"
-    dominant-baseline="middle">
-    PARE
-  </text>
-
-
-  <!-- Color Blocks -->
-  <g transform="translate(32 80)">
-    <rect width="9.14" height="7" fill="#cd222f"/>      <!-- color1 -->
-    <rect x="9.14" width="9.14" height="7" fill="#0bde96"/>  <!-- color2 -->
-    <rect x="18.28" width="9.14" height="7" fill="#ee8109"/> <!-- color3 -->
-    <rect x="27.42" width="9.14" height="7" fill="#549dbc"/> <!-- color4 -->
-    <rect x="36.56" width="9.14" height="7" fill="#3f4754"/> <!-- color5 -->
-    <rect x="45.70" width="9.14" height="7" fill="#0ba3a4"/> <!-- color6 -->
-    <rect x="54.84" width="9.14" height="7" fill="#d3dde8"/> <!-- color7 -->
+  <g transform="translate(4 17.5)">
+    <rect width="4.571" height="5" fill="#cd222f"/>
+    <rect x="4.571" width="4.571" height="5" fill="#0bde96"/>
+    <rect x="9.142" width="4.571" height="5" fill="#ee8109"/>
+    <rect x="13.713" width="4.571" height="5" fill="#549dbc"/>
+    <rect x="18.284" width="4.571" height="5" fill="#3f4754"/>
+    <rect x="22.855" width="4.571" height="5" fill="#0ba3a4"/>
+    <rect x="27.426" width="4.571" height="5" fill="#d3dde8"/>
   </g>
 </svg>
