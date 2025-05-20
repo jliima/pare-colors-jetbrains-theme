@@ -2,8 +2,9 @@
   <metaInfo>
     <property name="created">2025-05-20T21:09:00</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2025.1.1.1.0</property>
+    <property name="ideVersion">2023.2.1.0.0</property>
     <property name="modified">2025-05-20T21:10:00</property>
+    <property name="originalScheme">Pare Colors</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="0BDE86" />
@@ -14,7 +15,7 @@
     <option name="DELETED_LINES_COLOR" value="CD222F" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1E2A30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1B262B" />
-    <option name="DOCUMENTATION_COLOR" value="333A48" />
+    <option name="DOCUMENTATION_COLOR" value="10171E" />
     <option name="FILESTATUS_ADDED" value="0BDE86" />
     <option name="FILESTATUS_COPIED" value="91B859" />
     <option name="FILESTATUS_DELETED" value="CD222F" />
@@ -47,6 +48,7 @@
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="6BFF00" />
     <option name="LINE_NUMBERS_COLOR" value="556072" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="CFDCEB" />
+    <option name="LOOKUP_COLOR" value="10171E" />
     <option name="METHOD_SEPARATORS_COLOR" value="00FF00" />
     <option name="MODIFIED_LINES_COLOR" value="EE8109" />
     <option name="MT_FILESTATUS_ADDED" value="0BDE86" />
@@ -164,7 +166,7 @@
         <option name="FOREGROUND" value="bde86" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cfdceb" />
@@ -401,10 +403,10 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="EFFECT_COLOR" value="bde96" />
+        <option name="EFFECT_COLOR" value="c91b8e" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bde86" />
@@ -422,8 +424,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="8b888f" />
@@ -2828,7 +2830,7 @@
         <option name="FOREGROUND" value="bde96" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -3546,10 +3548,10 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
-    <option name="VELOCITY_KEYWORD" baseAttributes="" />
-    <option name="VELOCITY_REFERENCE" baseAttributes="" />
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ee8109" />
