@@ -84,12 +84,12 @@
       "ContrastBorderColor": "#549dbc"
     },
     "ComboBox": {
-      "nonEditableBackground": "#3A384D",
-      "background": "#343445",
+      "nonEditableBackground": "backgroundColor",
+      "background": "backgroundColor",
       "ArrowButton": {
-        "iconColor": "#9A97A8",
-        "disabledIconColor": "#454554",
-        "nonEditableBackground": "#3A384D"
+        "iconColor": "foregroundColor",
+        "disabledIconColor": "color16",
+        "nonEditableBackground": "color16"
       }
     },
     "CompletionPopup": {
@@ -124,9 +124,9 @@
       "areaBorderColor": "#343142"
     },
     "Editor": {
-      "background": "#1D1D26",
-      "foreground": "#6d6a80",
-      "shortcutForeground": "#6E86FF"
+      "background": "backgroundColor",
+      "foreground": "foregroundColor",
+      "shortcutForeground": "color13"
     },
     "EditorPane.inactiveBackground": "color0",
     "EditorTabs": {
@@ -139,19 +139,20 @@
       "borderColor": "#315d6e"
     },
     "FileColor": {
-      "Yellow": "#593004",
+      "Gray": "color16",
+      "Rose": "#640d46",
       "Green": "#045e40",
+      "Yellow": "#593004",
       "Blue": "#2c5364",
-      "Violet": "#2a2754",
-      "Orange": "#593004",
-      "Rose": "#640d46"
+      "Violet": "#076768",
+      "Orange": "#593004"
     },
     "InplaceRefactoringPopup.borderColor": "#474359",
     "Link": {
-      "activeForeground": "#c91b8e",
-      "hoverForeground": "#c91b8e",
-      "pressedForeground": "#c91b8e",
-      "visitedForeground": "#c91b8e"
+      "activeForeground": "color13",
+      "hoverForeground": "color13",
+      "pressedForeground": "color13",
+      "visitedForeground": "color13"
     },
     "List": {
       "hoverBackground": "#00000033",
