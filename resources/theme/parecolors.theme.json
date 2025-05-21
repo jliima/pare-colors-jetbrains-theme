@@ -141,7 +141,7 @@
       "selectedBackground": "#343445",
       "inactiveMaskColor": "#0d0d0d33",
       "underlineColor": "#904ac2",
-      "underlinedTabBackground": "#363647",
+      "underlinedTabBackground": "color4d05",
       "inactiveColoredFileBackground": "#10171e80",
       "borderColor": "color4d04"
     },
